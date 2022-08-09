@@ -1,0 +1,12 @@
+.heading{
+    color: blue;
+    text-align: left;
+    padding: 20px;
+    border: 20px;
+    margin: 20px;
+}
+*{
+    background-color: pink;
+    border: 2px solid red;
+    
+}
